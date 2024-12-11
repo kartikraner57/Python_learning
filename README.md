@@ -1,2 +1,2 @@
 # Python_learning
-Learning Python
+Learning Python. Let's deep dive into Python.
