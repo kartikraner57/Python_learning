@@ -62,55 +62,55 @@
 # print(list)
 
 ##append
-my_list = [1, 2, 3]
-my_list.append(4)  # Adds 4 at the end
-print(my_list)  # Output: [1, 2, 3, 4]
+# my_list = [1, 2, 3]
+# my_list.append(4)  # Adds 4 at the end
+# print(my_list)  # Output: [1, 2, 3, 4]
 
 ##extend
-my_list = [1, 2, 3]
-my_list.extend([4, 5])  # Adds 4 and 5 to the list
-print(my_list)  # Output: [1, 2, 3, 4, 5]
+# my_list = [1, 2, 3]
+# my_list.extend([4, 5])  # Adds 4 and 5 to the list
+# print(my_list)  # Output: [1, 2, 3, 4, 5]
 
 ##insert
-my_list = [1, 2, 3]
-my_list.insert(1, 'a')  # Inserts 'a' at index 1
-print(my_list)  # Output: [1, 'a', 2, 3]
+# my_list = [1, 2, 3]
+# my_list.insert(1, 'a')  # Inserts 'a' at index 1
+# print(my_list)  # Output: [1, 'a', 2, 3]
 
 ##remove()
-my_list = [1, 2, 3, 2]
-my_list.remove(2)  # Removes the first 2
-print(my_list)  # Output: [1, 3, 2]
+# my_list = [1, 2, 3, 2]
+# my_list.remove(2)  # Removes the first 2
+# print(my_list)  # Output: [1, 3, 2]
 
 ##pop()
-my_list = [1, 2, 3]
-popped_element = my_list.pop(1)  # Removes the element at index 1 (which is 2)
-print(popped_element)  # Output: 2
-print(my_list)  # Output: [1, 3]
+# my_list = [1, 2, 3]
+# popped_element = my_list.pop(1)  # Removes the element at index 1 (which is 2)
+# print(popped_element)  # Output: 2
+# print(my_list)  # Output: [1, 3]
 
 ##index()
-my_list = [1, 2, 3, 2]
-index_of_2 = my_list.index(2)  # Finds the index of the first occurrence of 2
-print(index_of_2)  # Output: 1
+# my_list = [1, 2, 3, 2]
+# index_of_2 = my_list.index(2)  # Finds the index of the first occurrence of 2
+# print(index_of_2)  # Output: 1
 
 ##count()
-my_list = [1, 2, 3, 2, 2]
-count_of_2 = my_list.count(2)  # Counts how many times 2 appears in the list
-print(count_of_2)  # Output: 3
+# my_list = [1, 2, 3, 2, 2]
+# count_of_2 = my_list.count(2)  # Counts how many times 2 appears in the list
+# print(count_of_2)  # Output: 3
 
 ##sort()
-my_list = [3, 1, 2]
-my_list.sort()  # Sorts the list
-print(my_list)  # Output: [1, 2, 3]
+# my_list = [3, 1, 2]
+# my_list.sort()  # Sorts the list
+# print(my_list)  # Output: [1, 2, 3]
 
 ##reverse()
-my_list = [1, 2, 3]
-my_list.reverse()  # Reverses the list
-print(my_list)  # Output: [3, 2, 1]
+# my_list = [1, 2, 3]
+# my_list.reverse()  # Reverses the list
+# print(my_list)  # Output: [3, 2, 1]
 
 ##clear()
-my_list = [1, 2, 3]
-my_list.clear()  # Clears the list
-print(my_list)  # Output: []
+# my_list = [1, 2, 3]
+# my_list.clear()  # Clears the list
+# print(my_list)  # Output: []
 
 
 ####tuple####
@@ -186,13 +186,12 @@ print(my_list)  # Output: []
 
 
 
+# grade = ("c", "D", "A", "A", "B", "B", "A")
 
-grade = ("c", "D", "A", "A", "B", "B", "A")
-
-print(grade.count("A"))
+# print(grade.count("A"))
 
 
-grade = ["c", "D", "A", "A", "B", "B", "A"]
+# grade = ["c", "D", "A", "A", "B", "B", "A"]
 
-grade.sort()
-print(grade)
+# grade.sort()
+# print(grade)
