@@ -7,7 +7,7 @@
 # marks = [94.4, 87.5, 95.2, 66.4, 45.1]
 
 # print(marks[3])
-# print(type(marks))
+# print(type(marks))git
 # print(marks[1])
 
 # student = ["karan", 95.4, 17, "pune"]
