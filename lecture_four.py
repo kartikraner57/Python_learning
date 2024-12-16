@@ -14,7 +14,7 @@
 # info["name"]= "kartik raner"
 # print(info)
 
-##nested dictionaries
+# ##nested dictionaries
 student ={
     "name":"kartik",
     "score":{
@@ -26,3 +26,8 @@ print(student)
 print(student["score"]["math"])
 print(student["score"]["phy"])
 print(student["score"]["chem"])
+print(list(student.values()))
+##Dictionary methods
+#1).keys() #Returns a view object that displays all the keys in the dictionary.
+my_dict = {"a": 1, "b": 2}
+print(my_dict.keys())  # Output: dict_keys(['a', 'b'])
