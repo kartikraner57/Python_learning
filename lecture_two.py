@@ -142,4 +142,3 @@ else:
 
     # """simple code"""
 
-print("hello")
