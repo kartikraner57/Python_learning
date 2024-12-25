@@ -66,7 +66,16 @@
 # print("apnacollage",end=" & ") #sep = " "
 # print("shradhakhapra") #end = "\n"= next line
 
-def cal_prod(a = 2,b = 5):
-    print(a * b)
-    return a * b
-cal_prod(1)
+# def cal_prod(a = 2,b = 5):
+#     print(a * b)
+#     return a * b
+# cal_prod(1)
+
+def sum(a,b):
+    sum = a + b
+    print(sum)
+    return sum
+
+sum(5,2)
+sum(2,10)
+sum(55,43)
