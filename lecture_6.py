@@ -83,10 +83,10 @@
 # print("apnacollage",end=" & ") #sep = " "
 # print("shradhakhapra") #end = "\n"= next line
 
-def cal_prod(a = 4,b = 5):
-    print(a * b)
-    return a * b
-cal_prod()
+# def cal_prod(a = 4,b = 5):
+#     print(a * b)
+#     return a * b
+# cal_prod()
 
 # def sum(a,b):
 #     sum = a + b
@@ -96,4 +96,44 @@ cal_prod()
 # sum(5,2)
 # sum(2,10)
 # sum(55,43)
-print(abds)
+# print(abds)
+# cites =["delhi","gurgon","noida","pune","mumbai","channai"]
+# heroes = ["thor","ironman","captain america","shaktiman"]
+
+# def print_len(list):
+#     print(len(list))
+
+# print_len(cites)
+# print_len(heroes)
+
+cites =["delhi","gurgon","noida","pune","mumbai","channai"]
+heroes = ["thor","ironman","captain america","shaktiman"]
+
+
+print(cites[0], end=" " )
+print(heroes[1], end=" ")
+
+def print_len(list):
+    print(len(list))
+
+
+print_len(cites)
+print_len(heroes)
+
+
+
+
+cites =["delhi","gurgon","noida","pune","mumbai","channai"]
+heroes = ["thor","ironman","captain america","shaktiman"]
+
+
+def print_len(list):
+    print(len(list))
+
+def print_list(list):
+    for item in list:
+        print(item, end=" ")
+
+
+print_list(heroes)
+print(print_list)
