@@ -8,6 +8,15 @@
 # calc_sum(2,10)
 # calc_sum(55,43)
 
+# def sum(a,b):
+#     sum = a + b
+#     print(sum)
+#     return sum
+
+# sum(5,2)
+# sum(2,10)
+# sum(55,43)
+
 
 
 # a = 5
@@ -63,19 +72,28 @@
 #     print(avg)
 #     return avg
 # calc_avg(100,50,30)
+
+# def avage(a, b, c):
+#     sum = a + b + c
+#     avg=(sum / 3)
+#     print(avg)
+#     return(avg)
+
+# avage(3,4,5)
 # print("apnacollage",end=" & ") #sep = " "
 # print("shradhakhapra") #end = "\n"= next line
 
-# def cal_prod(a = 2,b = 5):
-#     print(a * b)
-#     return a * b
-# cal_prod(1)
+def cal_prod(a = 4,b = 5):
+    print(a * b)
+    return a * b
+cal_prod()
 
-def sum(a,b):
-    sum = a + b
-    print(sum)
-    return sum
+# def sum(a,b):
+#     sum = a + b
+#     print(sum)
+#     return sum
 
-sum(5,2)
-sum(2,10)
-sum(55,43)
+# sum(5,2)
+# sum(2,10)
+# sum(55,43)
+print(abds)
