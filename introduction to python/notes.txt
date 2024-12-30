@@ -1,0 +1,131 @@
+language fundamentals :
+
+#introduction 
+
+
+ #test.py =file of python
+  #"guido van Rosson" this  person  introduce python(1989) NRI Netherland .
+  IN feb 20th 1991 introduce to  public.
+
+python = programing language
+       = high level language
+       = general purpose language
+       = simple and easy to understand 
+       = very less code / concise code
+       = use in AI, ml, DL, NN ,ds and IOT
+python simple program =
+
+print("hellow world")
+a = 10
+b = 20
+print("the sum,a+b)
+Q) why code/name python salected ?
+=> The complete  "monty python's circus" BBc 1969 to 1974
+
+
+#features of python 
+              =    functional programing features from c,functional programing language.
+              = object oriented programing language.
+              = scripting language , means one by one  code exicute
+              = modular programing  language
+              = python is all rounder
+
+#where we can use python :
+= dekstop applications
+= web applications
+= network applications
+= games development
+= data analysis
+= ML, DL, NN, AI, IOT.
+
+# spacific features of python 
+1) simple and easy to lern
+= 33 resurve words for python
+= python code is something like a reading english statements.
+2)concise code 
+= cost of the project development will be redudced,like length of the code will be less
+3)freeware and  open source
+= it is the free where sny person can use even for business sake
+= pyhon software foundation (PSF) is respodisble for this to  maintain to python. download from"python.org".
+= we aew not required to pay single paisa beacsuse python is comming from python software foundation it is non profit organazation
+= it is the opensource so we can access code of the python based on your requiremnt.can customize python 
+4)high level programing language
+
+=high-level languages are easier to use and
+ faster to write compared to low-level languages, which are closer to how computers actually process instructions.
+=we are not required to worry low level activities like memory management,security
+
+5)platform independent
+= write python applications once run any platform like windows, linux, mAc.
+= write once run anywhere is the concept of platform independent.
+= python virtual machine (pvm)for windows,linux,mAc.
+= python program is platform independent and python virtual machine is platform dependant.
+6)portability
+without performing any  changees in our application or with minimum changes,you can migrate our python
+6)dynamically typed
+= means variable types are determined at runtime, and you don't need to declare them explicitly.
+ The type can change during execution.
+= x = 10      # integer    ,x = "Hello" # now a string
+=in python weare not required to declare type explicitly based on provided value.Automatically typed will be considered.
+7)both procedure oriented & object oriented
+=pyhton is procedure oriented, oop,scripting language , modular
+all rounder.
+8)independent
+=we can not required to compile internaly ,python interpretor is going to takr-e care about comliation syntax cheakin all those things.
+it is the part of python vrtual machine   
+8)extensiable
+=we can use other language application in our python code.
+10)embedded
+= IN our python application to you can use other code
+11)extensiable library
+
+
+
+limitations of  python =>
+1)mobile applications = pyhon is not suitable to develop mobile application
+2)entrprice application = banking application , telecom application
+3)performance is low =interpreted programming languages are lack of performance.
+4)
+
+
+
+Flavors of python :
+1)C python c- language application
+2)jpython/jython= java application
+3)ruby pyhon : rubyplatform
+5) anaconda python= to work with large valume
+6)stackless(pythn for concurency)
+7)pypy(python for speed)
+
+
+
+python versions
+python 0.9.0. => feb 20th 1991
+python 1.0    => jan 1994
+Python 2.0 October 16th, 2000.PY2K. = Python three point x developed has completely independent language.
+ Python 3.0 came December 3rd, 2008 PY3K.
+
+ Python three point x developed has completely independent language.
+ Assume that python three x is not a extension to python two x.
+
+It is a developed a completely independent language.
+
+Remember this one 
+
+Python three point x developed has completely independent language.
+
+
+
+
+
+This language sir not extension to python two point x version.
+
+Remember that That's why if it is the next new release, it should provide support for old versions.
+
+But it is a developed, like complete brand new programming language.
+
+That's why Python three point X version won't provide support for Python two point 
+
+
+
+ython three x There is no guarantee it is going to provide support for python two point x regarding
