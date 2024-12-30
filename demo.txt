@@ -47,10 +47,14 @@ Q) why code/name python salected ?
 3)freeware and  open source
 = it is the free where sny person can use even for business sake
 = pyhon software foundation (PSF) is respodisble for this to  maintain to python. download from"python.org".
+= we aew not required to pay single paisa beacsuse python is comming from python software foundation it is non profit organazation
+= it is the opensource so we can access code of the python based on your requiremnt.can customize python 
 4)high level programing language
+
 =high-level languages are easier to use and
  faster to write compared to low-level languages, which are closer to how computers actually process instructions.
 =we are not required to worry low level activities like memory management,security
+
 5)platform independent
 = write python applications once run any platform like windows, linux, mAc.
 = write once run anywhere is the concept of platform independent.
@@ -58,3 +62,35 @@ Q) why code/name python salected ?
 = python program is platform independent and python virtual machine is platform dependant.
 6)portability
 without performing any  changees in our application or with minimum changes,you can migrate our python
+6)dynamically typed
+= means variable types are determined at runtime, and you don't need to declare them explicitly.
+ The type can change during execution.
+= x = 10      # integer    ,x = "Hello" # now a string
+=in python weare not required to declare type explicitly based on provided value.Automatically typed will be considered.
+7)both procedure oriented & object oriented
+=pyhton is procedure oriented, oop,scripting language , modular
+all rounder.
+8)independent
+=we can not required to compile internaly ,python interpretor is going to takr-e care about comliation syntax cheakin all those things.
+it is the part of python vrtual machine   
+8)extensiable
+=we can use other language application in our python code.
+10)embedded
+= IN our python application to you can use other code
+11)extensiable library
+
+
+
+limitations of  python =>
+1)mobile applications = pyhon is not suitable to develop mobile application
+2)entrprice application = banking application , telecom application
+3)performance is low =interpreted programming languages are lack of performance.
+4)
+
+
+
+Flavors of python :
+1)C python c- language application
+2)jpython/jython= java application
+3)ruby pyhon : rubyplatform
+5) anaconda python
