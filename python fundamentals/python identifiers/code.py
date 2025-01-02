@@ -1,5 +1,6 @@
 
 
+
 python identifiers = A name in Python program is called identifier, 
 which can be used for identification purpose.
 It can be a method name variable name class name which can be used for identification purpose.
@@ -33,5 +34,3 @@ __x =>private
 __x__ =>magic veriable
 
 
- add
- 
