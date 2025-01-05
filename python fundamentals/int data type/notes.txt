@@ -12,3 +12,17 @@ Do you know just to ten I want to represent or 1 to 20 I want to represent.
 2)binary form(base-2)
 3)octal form(base-8)
 4)hexa decimal(base-16)
+1) int :
+          int is a built-in Python data type that stores whole numbers,
+          both positive and negative, without any fractional or
+          decimal component. It supports mathematical operations and
+          can represent numbers of virtually any size, constrained only by available memory.
+
+So integral values I want to represent in number without a decimal point.
+
+Do you know just to ten I want to represent or 1 to 20 I want to represent.
+
+1)decimal form(base-10)
+2)binary form(base-2)
+3)octal form(base-8)
+4)hexa decimal(base-16)
