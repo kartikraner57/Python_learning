@@ -128,4 +128,98 @@ That's why Python three point X version won't provide support for Python two poi
 
 
 
-ython three x There is no guarantee it is going to provide support for python two point x regarding
+ython three x There is no guarantee it is going to provide support for python two point x regardingt 
+Python 3.7.2.
+So this is the which version we require to install.
+
+The latest version as of today is python.
+
+Python 3.7.2. 
+install from python.org
+We can run python code by using python ide lg.
+
+What is this ideal python? = integrated development and learning environment 
+it is REPL tool ,= r=>read
+                   e=>evolve
+                   p=>print
+                   l=>loop
+
+
+
+
+
+
+python identifiers = A name in Python program is called identifier, 
+which can be used for identification purpose.
+It can be a method name variable name class name which can be used for identification purpose.
+
+rules for python identifiers = 1) a -z, A -Z, 0 to 10(These are the only characters which are allowed
+in python identifiers by mistake. If you are using any other symbol syntax error.)
+                               2) total 123 = 10(this is right )
+                                  1233total = 10(this is wrong ) That identifier should not starts with a digit by mistake identifier starts with the digit immediately.Syntax error
+                               3) total = 10
+                                  Total = 20 
+                                  TOTAL = 30 Python is case sensitive programming language where case is important.
+                                 Of course, python identifiers are also case sensitive regarding so lowercase and uppercase.
+                               4) no lenght limit(but not recommended to take too lengthy identifiers.)
+                               5)x= 10(right)
+                                 if = 20(rong)
+
+Q.)which of the following are valid pthon identifiers ?
+=>
+1)cash (right)
+2)ca$has3 (wrong)
+3)total123 (right)
+4)1233total (wrong)
+5)all@hands (wrong)
+6)java2share(right)
+7)if (wrong)
+8)-durga__python(right) 
+
+x => simple
+_x => protected
+__x =>private
+__x__ =>magic veriable
+
+
+
+
+
+
+
+
+
+3.l2
+18. python reservd words
+
+
+Reserved words are only regarding how many reserved words 33 reserved words.
+
+
+
+python versions
+python 0.9.0. => feb 20th 1991
+python 1.0    => jan 1994
+Python 2.0 October 16th, 2000.PY2K. = Python three point x developed has completely independent language.
+ Python 3.0 came December 3rd, 2008 PY3K.
+
+ Python three point x developed has completely independent language.
+ Assume that python three x is not a extension to python two x.
+
+It is a developed a completely independent language.
+
+Remember this one 
+
+Python three point x developed has completely independent language.
+
+
+
+
+
+This language sir not extension to python two point x version.
+
+Remember that That's why if it is the next new release, it should provide support for old versions.
+
+But it is a developed, like complete brand new programming language.
+
+That's why Python three point X version won't provide support for Python two point 
