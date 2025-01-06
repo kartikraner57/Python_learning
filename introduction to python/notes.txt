@@ -197,29 +197,3 @@ Reserved words are only regarding how many reserved words 33 reserved words.
 
 
 
-python versions
-python 0.9.0. => feb 20th 1991
-python 1.0    => jan 1994
-Python 2.0 October 16th, 2000.PY2K. = Python three point x developed has completely independent language.
- Python 3.0 came December 3rd, 2008 PY3K.
-
- Python three point x developed has completely independent language.
- Assume that python three x is not a extension to python two x.
-
-It is a developed a completely independent language.
-
-Remember this one 
-
-Python three point x developed has completely independent language.
-
-
-
-
-
-This language sir not extension to python two point x version.
-
-Remember that That's why if it is the next new release, it should provide support for old versions.
-
-But it is a developed, like complete brand new programming language.
-
-That's why Python three point X version won't provide support for Python two point 
