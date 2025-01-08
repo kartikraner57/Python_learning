@@ -2,7 +2,7 @@
 # print("my age is 23")
 # print("23 , 25")
 #  name ="shradha"
-age = 23
+# age = 23
 # price = 25.99
 # # age2 = age
 
@@ -50,8 +50,8 @@ age = 23
 # print(a ** b)#a^b
 
 # #relational operators
-a = 50 
-b = 20
+# a = 50 
+# b = 20
 
 # print(a == b) #False
 # print(a != b) #True
@@ -95,10 +95,10 @@ b = 20
  # type cast
 
  
-a= int ("2")
-b = 4.25
-print(type(a))
-print (a + b)
+# a= int ("2")
+# b = 4.25
+# print(type(a))
+# print (a + b)
 
 # a = 3.14
 # a = str(a)
@@ -109,3 +109,34 @@ print (a + b)
 # name = input ("enter your age :")
 # print ("you entered ", name)
 
+# language fundamentals :
+
+# #introduction 
+
+
+#  #test.py =file of python
+#   #"guido van Rosson" this  person  introduce python(1989) NRI Netherland .
+#   IN feb 20th 1991 introduce to  public.
+
+# python = programing language
+#        = high level language
+#        = general purpose language
+#        = simple and easy to understand 
+#        = very less code / concise code
+#        = use in AI, ml, DL, NN ,ds and IOT
+# python simple program =
+
+# print("hellow world")
+# a = 10
+# b = 20
+# print("the sum,a+b)
+# Q) why code/name python salected ?
+# => The complete  "monty python's circus" BBc 1969 to 1974
+
+
+# #features of python 
+#               =    functional programing features from c,functional programing language.
+#               = object oriented programing language.
+#               = scripting language , means one by one  code exicute
+#               = modular programing  language
+#               = python is all rounder
