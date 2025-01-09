@@ -114,29 +114,3 @@
 # #introduction 
 
 
-#  #test.py =file of python
-#   #"guido van Rosson" this  person  introduce python(1989) NRI Netherland .
-#   IN feb 20th 1991 introduce to  public.
-
-# python = programing language
-#        = high level language
-#        = general purpose language
-#        = simple and easy to understand 
-#        = very less code / concise code
-#        = use in AI, ml, DL, NN ,ds and IOT
-# python simple program =
-
-# print("hellow world")
-# a = 10
-# b = 20
-# print("the sum,a+b)
-# Q) why code/name python salected ?
-# => The complete  "monty python's circus" BBc 1969 to 1974
-
-
-# #features of python 
-#               =    functional programing features from c,functional programing language.
-#               = object oriented programing language.
-#               = scripting language , means one by one  code exicute
-#               = modular programing  language
-#               = python is all rounder
