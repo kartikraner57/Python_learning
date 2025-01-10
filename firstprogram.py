@@ -114,3 +114,29 @@
 # #introduction 
 
 
+# Numeric Types
+x = 10            # int
+y = 3.14          # float
+z = 2 + 3j        # complex
+
+# Sequence Types
+name = "Alice"    # str
+fruits = ["apple", "banana", "cherry"]  # list
+coordinates = (10, 20)  # tuple
+
+# Mapping Type
+person = {"name": "Alice", "age": 25}  # dict
+
+# Set Types
+fruits_set = {"apple", "banana", "cherry"}  # set
+frozen_set = frozenset([1, 2, 3])  # frozenset
+
+# Boolean Type
+is_active = True    # bool
+
+# Binary Types
+b = bytes([65, 66, 67])  # bytes
+ba = bytearray([65, 66, 67])  # bytearray
+
+# Special Type
+value = None  # NoneType
