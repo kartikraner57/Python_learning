@@ -26,3 +26,28 @@ Do you know just to ten I want to represent or 1 to 20 I want to represent.
 2)binary form(base-2)
 3)octal form(base-8)
 4)hexa decimal(base-16)
+
+
+Key Points about Python int:
+Arbitrary Precision: Python integers can be very large, limited only by available memory.
+Basic Arithmetic: Supports all basic operations: +, -, *, /, //, %, **.
+Negative Integers: Supports both positive and negative integers.
+No Overflow: No worries about exceeding a maximum integer size.
+Boolean Integers: True is 1, False is 0.
+Base Conversions: Convert between hex, bin, and octal using hex(), bin(), oct().S
+
+
+
+Basic Arithmetic:
+
+Python supports all the standard arithmetic operations with integers, including:
+Addition (+), Subtraction (-), Multiplication (*), Division (/), Floor Division (//), Modulus (%), and Exponentiation (**).
+Python automatically performs integer division with //, which discards the fractional part of the result.
+
+
+Conversion:
+
+You can convert other types (like floats or strings) to integers using the int() function:
+From float: int(3.14) → 3
+From string: int("42") → 42
+If the string cannot be converted to an integer (e.g., "abc"), Python will raise a ValueError.
