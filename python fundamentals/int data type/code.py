@@ -15,3 +15,14 @@ print(c)
 print( '*' * 10 + ' Converting from float to int data types ' + '*' * 10)
 a = int(10.9898)
 print(a)
+
+
+
+
+
+
+
+
+x = 10          # An integer
+y = -3          # A negative integer
+z = 1000000     # A large integer
