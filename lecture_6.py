@@ -96,7 +96,9 @@
 # sum(5,2)
 # sum(2,10)
 # sum(55,43)
-# print(abds)
+
+
+# write to print the length of a list.(list is the parameter)
 # cites =["delhi","gurgon","noida","pune","mumbai","channai"]
 # heroes = ["thor","ironman","captain america","shaktiman"]
 
@@ -106,34 +108,35 @@
 # print_len(cites)
 # print_len(heroes)
 
-cites =["delhi","gurgon","noida","pune","mumbai","channai"]
-heroes = ["thor","ironman","captain america","shaktiman"]
+# cites =["delhi","gurgon","noida","pune","mumbai","channai"]
+# heroes = ["thor","ironman","captain america","shaktiman"]
 
 
-print(cites[0], end=" " )
-print(heroes[1], end=" ")
+# print(cites[0], end=" " )
+# print(heroes[1], end=" ")
 
-def print_len(list):
-    print(len(list))
-
-
-print_len(cites)
-print_len(heroes)
+# def print_len(list):
+#     print(len(list))
 
 
+# print_len(cites)
+# print_len(heroes)
 
 
-cites =["delhi","gurgon","noida","pune","mumbai","channai"]
-heroes = ["thor","ironman","captain america","shaktiman"]
+# write to print the elements of a list in a single line. (llis in the parmaeters)
+
+# cites =["delhi","gurgon","noida","pune","mumbai","channai"]
+# heroes = ["thor","ironman","captain america","shaktiman"]
 
 
-def print_len(list):
-    print(len(list))
+# def print_len(list):
+#     print(len(list))
 
-def print_list(list):
-    for item in list:
-        print(item, end=" ")
+# def print_list(list):
+#     for item in list:
+#         print(item, end=" ")
 
 
-print_list(heroes)
-print(print_list)
+# print_list(heroes)
+# print()
+
