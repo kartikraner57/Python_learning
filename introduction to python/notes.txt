@@ -7,12 +7,24 @@ language fundamentals :
   #"guido van Rosson" this  person  introduce python(1989) NRI Netherland .
   IN feb 20th 1991 introduce to  public.
 
-python = programing language
-       = high level language
-       = general purpose language
-       = simple and easy to understand 
-       = very less code / concise code
+python = 
+programing language
+ = (A programming language is a set of rules and symbols used by developers to write instructions that a computer can execute.)
+
+high level language 
+= is a language that is easy for humans to read and write, abstracting away complex hardware details.
+
+general purpose language 
+ = is a language that can be used to create different types of software for various tasks.
+A general-purpose programming language is a language used to create many types of software, not just for one specific purpose.
+       
+simple and easy to understand 
+= 
+very less code / concise code
+= means writing a program using fewer lines of code while maintaining clarity and functionality.
        = use in AI, ml, DL, NN ,ds and IOT
+
+
 python simple program =
 
 print("hellow world")
@@ -24,10 +36,11 @@ Q) why code/name python salected ?
 
 
 #features of python 
-              =    functional programing features from c,functional programing language.
+              = functional programing features from c,functional programing language.
               = object oriented programing language.
               = scripting language , means one by one  code exicute
-              = modular programing  language
+              = modular programing  language = Modular programming is a technique that divides a program into smaller,
+               independent modules for easier development, testing, and maintenance.
               = python is all rounder
 
 #where we can use python :
@@ -60,9 +73,15 @@ Q) why code/name python salected ?
 = write once run anywhere is the concept of platform independent.
 = python virtual machine (pvm)for windows,linux,mAc.
 = python program is platform independent and python virtual machine is platform dependant.
+Platform independent means software can run on any operating system or hardware without modification.
+Platform dependent means software that can only run on a specific operating system or hardware.
+
+
+
 6)portability
 without performing any  changees in our application or with minimum changes,you can migrate our python
 6)dynamically typed
+= programming language does not require the declaration of variable types at compile time. 
 = means variable types are determined at runtime, and you don't need to declare them explicitly.
  The type can change during execution.
 = x = 10      # integer    ,x = "Hello" # now a string

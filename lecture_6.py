@@ -139,4 +139,7 @@
 
 # print_list(heroes)
 # print()
-
+a = 50 
+b = 90
+s = (a + b / 100)
+print(s)
