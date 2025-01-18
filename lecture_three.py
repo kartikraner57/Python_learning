@@ -230,3 +230,10 @@
 
 
 
+print(bin(3))
+print(oct(30))
+print(hex(3))
+print(oct(0xface))
+print(bin(0xface))
+print(hex(0xface))
+print(oct(0xface))
