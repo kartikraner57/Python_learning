@@ -30,12 +30,20 @@
 # # binary
 # a = 1111
 # print(a)
-a = 0b1111
-print(a)
+# a = 0b1111
+# print(a)
 
-#octal
-a =123
-print(a)
+# #octal
+# a =123
+# print(a)
 
-b =0o123
-print(b)
+# b =0o123
+# print(b)
+
+# hexa 
+a = 0x10
+print(a)
+d = 0xFace
+print(d)
+c = 0xbeer
+print(C)
