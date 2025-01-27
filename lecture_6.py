@@ -122,7 +122,6 @@
 # print_len(cites)
 # print_len(heroes)
 
-
 # write to print the elements of a list in a single line. (llis in the parmaeters)
 
 # cites =["delhi","gurgon","noida","pune","mumbai","channai"]
@@ -139,7 +138,7 @@
 
 # print_list(heroes)
 # print()
-a = 50 
-b = 90
-s = (a + b / 100)
-print(s)
+# a = 50 
+# b = 90
+# s = (a + b / 100)
+# print(s)
