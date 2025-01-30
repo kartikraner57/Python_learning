@@ -1,0 +1,44 @@
+Data types =>
+              A data type in Python refers to the classification or categorization of data, which indicates what kind of data it is and what operations can be performed on it.
+
+Examples of common data types in Python include:
+
+int (Integer): Whole numbers (e.g., 1, -5)
+float (Floating-point): Decimal numbers (e.g., 3.14, -0.01)
+str (String): Sequence of characters (e.g., "hello")
+bool (Boolean): Represents True or False values (e.g., True, False)
+
+
+all  data types in python
+1. Integer(int)
+2. Float (float)
+3. String (str)
+4. Boolean (bool)
+5. List (list)
+6. Tuple (tuple)
+7. Set (set)
+8. Dictionary (dict)
+9. NoneType (None)
+10. Complex (complex)
+11. Byte (bytes)
+12. Range(range)
+13. None(none)
+14. Bytearray (bytearray)
+
+#everything in python is object
+Data Type	Description              	Example
+int	      Integer (whole number)	   42, -7
+float	  Floating-point number     	3.14, -0.001
+complex	  Complex number (real + imaginary part)	3 + 4j, -1 + 2j
+list	  Ordered, mutable collection	[1, 2, 3], ["a", "b"]
+tuple	  Ordered, immutable collection	(1, 2, 3), ("a", "b")
+range	  Sequence of numbers (for loops, etc.)	range(5)
+str	      String (sequence of characters)	"hello", 'world'
+dict	  Key-value pairs (unordered)	{"name": "John"}
+set	             Unordered collection of unique elements	{1, 2, 3}, {1, 2, 2}
+frozenset  	     Immutable set	frozenset([1, 2, 3])
+bool	         Boolean (True/False)	True, False
+bytes	         Immutable sequence of bytes	b'hello'
+bytearray	     Mutable sequence of bytes	bytearray([65, 66])
+memoryview  	 Memory view object	memoryview(b"hello")
+None	         Represents no value or null value	None

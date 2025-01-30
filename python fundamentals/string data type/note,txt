@@ -1,0 +1,9 @@
+Strings in Python
+A string is a sequence of characters. 
+Strings in Python are enclosed in either single (') or double quotes ("), and they are immutable,
+ meaning once created, their values cannot be changed.
+
+ Strings are immutable: Once a string is created, it cannot be changed. Any operation on a string that seems to modify it will actually create a new string.
+String Concatenation: You can combine (concatenate) strings using the + operator:
+String Repetition: You can repeat a string multiple times using the * operator:
+Accessing Characters: Strings are indexed, so you can access individual characters using their index (starting from 0):

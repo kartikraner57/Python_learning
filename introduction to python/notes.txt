@@ -136,7 +136,6 @@ Python three point x developed has completely independent language.
 
 
 
-
 This language sir not extension to python two point x version.
 
 Remember that That's why if it is the next new release, it should provide support for old versions.

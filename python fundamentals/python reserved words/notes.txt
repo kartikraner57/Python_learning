@@ -1,0 +1,17 @@
+python reservd words
+
+
+Reserved words are only regarding how many reserved words 33 reserved words.
+
+how many reservd word in python?which are?
+there are 33 reserved words . 
+is,(True,False,None)     ,and,or,not,,is,if,elif,else,
+while,for,break,continue,return,in,yield,try,with,
+import,from,as,class,def,pass,global,nonlocal,lammbda,del.
+ 
+ #conains only alphabet symbols
+ #except (True,False,None)three all contains all all contains only lowercase alphabet symbols.
+#switch and do while statements not in python
+#int,float 
+#are not there next int float complex like a Datatypes are not reserved words in Python.
+

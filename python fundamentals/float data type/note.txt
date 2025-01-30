@@ -1,0 +1,4 @@
+
+
+ float is a data type used to represent real numbers 
+ (i.e., numbers that can have decimal points). For example, 3.14, -0.001, and 2.0 are all floats.

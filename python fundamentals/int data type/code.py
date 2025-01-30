@@ -40,10 +40,10 @@
 # b =0o123
 # print(b)
 
-# hexa 
-a = 0x10
-print(a)
-d = 0xFace
-print(d)
-c = 0xbeer
-print(C)
+# # hexa 
+# a = 0x10
+# print(a)
+# d = 0xFace
+# print(d)
+# c = 0xbeer
+# print(C) #r not in hexa

@@ -14,7 +14,7 @@ in python identifiers by mistake. If you are using any other symbol syntax error
                                   TOTAL = 30 Python is case sensitive programming language where case is important.
                                  Of course, python identifiers are also case sensitive regarding so lowercase and uppercase.
                                4) no lenght limit(but not recommended to take too lengthy identifiers.)
-                               5)x= 10(right)
+                               5)x = 10(right)
                                  if = 20(rong)
 
 Q.)which of the following are valid pthon identifiers ?

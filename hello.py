@@ -4,3 +4,4 @@ print("my name")
 print ("python")
 print("my place")
 print("hello there")
+# git config  
