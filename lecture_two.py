@@ -7,6 +7,28 @@
 # str1 ="this is astring. \n and \t we are creating it in python."
 # print(str1)
 
+
+
+
+# a = int(input("enter first number : "))
+# b = int(input("enter second number : "))
+# c = int(input("enter third number : "))
+
+# if(a >= b and a >= c):
+#     print("first number is largest",a)
+# elif(b >= c and b >= a):
+#     print("second number is largest",b)
+# else:
+#     print("third is largest",c)
+
+
+
+
+
+
+
+
+
 # str1 = "apna"
 # str2 = "collage"
 # final_str = str1+str2
