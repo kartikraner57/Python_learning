@@ -1,4 +1,6 @@
-In Python, the complex data type is used to represent complex numbers.
+
+ 
+ In Python, the complex data type is used to represent complex numbers.
  A complex number consists of two parts:
 
 A real part (which is a float or integer)
