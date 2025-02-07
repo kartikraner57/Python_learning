@@ -26,3 +26,6 @@ print(combined_string)
 triple_combined_string = '''This string contains both "double quotes" and 'single quotes'.'''
 print(triple_combined_string)
 
+# A simple list
+my_list = [1, 2, 3, 4, 5]
+print(my_list)
