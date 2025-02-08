@@ -35,3 +35,16 @@ print(my_list)  # [1, 2, 10, 4, 5, 6]
 
 my_list[2] = 10
 print(my_list)  # [1, 2, 10, 4, 5]
+
+
+
+# Using f-strings (formatted string literals)
+name = "Alice"
+age = 25
+greeting = f"Hello, my name is {name} and I am {age} years old."
+print(greeting)
+
+# Using str.format()
+greeting_format = "Hello, my name is {} and I am {} years old.".format(name, age)
+print(greeting_format)
+S
