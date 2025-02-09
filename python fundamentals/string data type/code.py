@@ -1,50 +1,50 @@
-# Single quotes
-my_string = 'Hello, World!'
-print(type(my_string))
+# # Single quotes
+# my_string = 'Hello, World!'
+# print(type(my_string))
 
-# Double quotes
-another_string = "Python is awesome!"
+# # Double quotes
+# another_string = "Python is awesome!"
 
-print(my_string)
-print(another_string)
-
-
-single_quote_string = 'This is a string using single quotes.'
-print(single_quote_string)
-
-double_quote_string = "This is a string using double quotes."
-print(double_quote_string)
-
-triple_double_quote_string = """This is another example
-of a multi-line string."""
-print(triple_double_quote_string)
+# print(my_string)
+# print(another_string)
 
 
-combined_string = "This is a string with 'single quotes' inside double quotes."
-print(combined_string)
+# single_quote_string = 'This is a string using single quotes.'
+# print(single_quote_string)
 
-triple_combined_string = '''This string contains both "double quotes" and 'single quotes'.'''
-print(triple_combined_string)
+# double_quote_string = "This is a string using double quotes."
+# print(double_quote_string)
 
-# A simple list
-my_list = [1, 2, 3, 4, 5]
-print(my_list)
-
-my_list.append(6)
-print(my_list)  # [1, 2, 10, 4, 5, 6]
-
-my_list[2] = 10
-print(my_list)  # [1, 2, 10, 4, 5]
+# triple_double_quote_string = """This is another example
+# of a multi-line string."""
+# print(triple_double_quote_string)
 
 
+# combined_string = "This is a string with 'single quotes' inside double quotes."
+# print(combined_string)
 
-# Using f-strings (formatted string literals)
-name = "Alice"
-age = 25
-greeting = f"Hello, my name is {name} and I am {age} years old."
-print(greeting)
+# triple_combined_string = '''This string contains both "double quotes" and 'single quotes'.'''
+# print(triple_combined_string)
 
-# Using str.format()
-greeting_format = "Hello, my name is {} and I am {} years old.".format(name, age)
-print(greeting_format)
-S
+# # A simple list
+# my_list = [1, 2, 3, 4, 5]
+# print(my_list)
+
+# my_list.append(6)
+# print(my_list)  # [1, 2, 10, 4, 5, 6]
+
+# my_list[2] = 10
+# print(my_list)  # [1, 2, 10, 4, 5]
+
+
+
+#Index of string data type
+s = 'durga'
+print(s[0])
+print(s[1])
+print(s[2])
+#print(s[100]) this is error
+print(s[-1])
+print(s[-2])
+
+
