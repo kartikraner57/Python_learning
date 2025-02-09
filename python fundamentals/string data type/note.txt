@@ -23,3 +23,19 @@ len(): Returns the length of a string.
 .strip(): Removes leading and trailing spaces.
 .replace(): Replaces a part of the string with another string.
 Example:
+
+Multiline Strings: You can create multiline strings by using triple quotes (''' or """):
+String Formatting: You can insert variables into strings using f-strings (Python 3.6+):
+
+
+
+
+
+
+
+
+So any sequence of characters within single quotes are within double quotes is considered as a string.
+So any sequence of characters within single quotes are within double quotes is considered as a string.but not multi line string literals.
+
+In python  only positive index as well as negative index  use both . another language only positive index.
+positive index start form left to right(start from 0) and negative index start from in right  to left (start from -1).
