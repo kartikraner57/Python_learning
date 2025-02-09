@@ -54,3 +54,10 @@
 
 # s1 = 'class durga by "durga"very good'
 # print(s1)
+#slice operator
+a ="abcdefghijklmnopqrtuvwxyz"
+# print(a[3: 5])
+# print(a[3: ])
+# print(a[: ])
+# print(a[3: 100])
+print(a[5: 1])
