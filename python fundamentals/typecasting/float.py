@@ -19,3 +19,18 @@ print(complex("1+0j"))
 print(complex("10+0j"))
 print(complex("10.5+0j"))
 # print(complex(""))
+
+print(complex("10+10j"))
+print(complex("10.5+0j"))
+print(complex("1+0j"))
+print(complex("10+0j"))
+print(complex("10.5+0j"))
+# print(complex(""))
+
+
+print(complex("10+10j"))
+print(complex("10.5+0j"))
+print(complex("1+0j"))
+print(complex("10+0j"))
+print(complex("10.5+0j"))
+# print(complex(""))
