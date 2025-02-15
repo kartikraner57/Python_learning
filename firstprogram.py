@@ -145,18 +145,3 @@ value = None  # NoneType
 # info["name"]= "kartik raner"
 # print(info)
 
-# ##nested dictionaries
-# student ={
-#     "name":"kartik",
-#     "score":{
-#         "chem": 98,
-#         "phy": 97,
-#         "math" : "95"
-#     }}
-# print(student)
-# print(student["score"]["math"])
-# print(student["score"]["phy"])
-# print(student["score"]["chem"])
-# print(list(student.values()))
-
-
