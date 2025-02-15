@@ -140,3 +140,23 @@ ba = bytearray([65, 66, 67])  # bytearray
 
 # Special Type
 value = None  # NoneType
+ print(null_dict)
+# print(info)
+# info["name"]= "kartik raner"
+# print(info)
+
+# ##nested dictionaries
+# student ={
+#     "name":"kartik",
+#     "score":{
+#         "chem": 98,
+#         "phy": 97,
+#         "math" : "95"
+#     }}
+# print(student)
+# print(student["score"]["math"])
+# print(student["score"]["phy"])
+# print(student["score"]["chem"])
+# print(list(student.values()))
+
+
