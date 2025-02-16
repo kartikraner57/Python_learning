@@ -87,3 +87,4 @@ print("hello there")
 # print(str.find("o"))
 # print(str.find("a"))
 # print(str.find("from"))
+GeneratorExit 
