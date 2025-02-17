@@ -15,4 +15,15 @@
 # print(id(y))
 
 
-add
+#needof immutability
+# a = 10
+# b = 10
+# c =10
+
+# print(id(a))
+# print(id(b))
+# print(id(c))
+
+a = 1000.234
+b = 1000.234
+print(a is b)
