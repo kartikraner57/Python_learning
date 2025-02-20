@@ -100,6 +100,12 @@
 # print(type(a))
 # print (a + b)
 
+# a= int ("3")
+# b = 5.25
+# print(type(a))
+# print (a + b)
+
+
 # a = 3.14
 # a = str(a)
 # print (type (a))
@@ -139,8 +145,8 @@ b = bytes([65, 66, 67])  # bytes
 ba = bytearray([65, 66, 67])  # bytearray
 
 # Special Type
-value = None  # NoneType
- print(null_dict)
+#value = None  # NoneType
+#print(null_dict)
 # print(info)
 # info["name"]= "kartik raner"
 # print(info)
