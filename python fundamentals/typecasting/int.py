@@ -32,7 +32,4 @@ print(int('15'))
 #     sum = a + b
 #     print(sum)
 #     return sum
-
-# sum(5,2)
-# sum(2,10)
-# sum(55,43)
+ass
