@@ -17,19 +17,3 @@ print(int('15'))
 
 
 
-
- ###function = bloack of statement that perform a specific task
-# def calc_sum(a,b):
-#     sum = a + b
-#     print(sum)
-#     return sum
-
-# calc_sum(5,2)
-# calc_sum(2,10)
-# calc_sum(55,43)
-
-# def sum(a,b):
-#     sum = a + b
-#     print(sum)
-#     return sum
-ass
