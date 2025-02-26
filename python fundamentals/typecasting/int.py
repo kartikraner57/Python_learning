@@ -9,3 +9,30 @@ print(int(False))
 print(int('15'))
 #print(int('0B1111')) #type error
 #print(int('15.5')) #type error
+
+
+
+
+
+
+
+
+
+ ###function = bloack of statement that perform a specific task
+# def calc_sum(a,b):
+#     sum = a + b
+#     print(sum)
+#     return sum
+
+# calc_sum(5,2)
+# calc_sum(2,10)
+# calc_sum(55,43)
+
+# def sum(a,b):
+#     sum = a + b
+#     print(sum)
+#     return sum
+
+# sum(5,2)
+# sum(2,10)
+# sum(55,43)
