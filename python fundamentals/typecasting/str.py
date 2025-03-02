@@ -7,11 +7,8 @@ print(type(a))
 print(a[3])
 
 fruits = ["apple", "banana", "cherry"]
-
 fruits.append("orange")
-
 fruits.remove("banana")
-
-
 for fruit in fruits:
     print(fruit)
+print(len(fruits))
