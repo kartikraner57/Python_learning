@@ -12,3 +12,4 @@ fruits.remove("banana")
 for fruit in fruits:
     print(fruit)
 print(len(fruits))
+print("add")
