@@ -24,3 +24,4 @@ s = 45
 t = 65
 print(s**4/t+6-(s**3+t))
 print(s**5/t+4-(s**3+t))
+print(s*4/t+6-(s*3+t))
