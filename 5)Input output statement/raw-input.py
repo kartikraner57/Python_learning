@@ -1,10 +1,18 @@
-#raw input is not applicable in python 3x or python 3.o
-#raw_input is equal to input function in python 3.o
-#this provide only string value
+# 33
 
 
-#in python 3.o   input()
-x= input('input same thing :')
-print(type(x)) #=>3
-y = input('inter same value :')
-print(type(x))
+
+#______________________
+# #69 lecture
+
+
+# x =input("inter first number :")
+# y =input("inter second number :")
+# i =int(x)
+# j =int(y)
+# print("the sum :",j + i)
+
+
+x = int(input("enter first number :"))
+y = int(input("enter second number :"))
+print("the sum :",x+y)
