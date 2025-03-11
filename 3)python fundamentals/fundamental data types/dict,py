@@ -1,0 +1,6 @@
+#dict = key value pair
+d = {100:"durga",200:"kanha",300:"shubham"}
+print(d)
+print(type(d))
+a={}
+print(type(a))#=>empty dict
