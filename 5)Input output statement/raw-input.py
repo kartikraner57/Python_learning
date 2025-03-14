@@ -23,6 +23,7 @@
 # print("thesum : ",int(input("enter first number :"))+int(input("enter the 2nd number :")))
 
 
+
 ###___________________________________________________________________________________________________________
 ##3lecture 69
 ###write a program to need employe data from the keyboard and print that data
@@ -39,5 +40,9 @@ print("employe salery :",esal)
 print("employe adress :",eaddar)
 print("employe married :",marrid)
 print("employe number :",marrid)
-print("employe number : eno")
+print("employe number :", eno)
+
+print()
+
+#kanha
 
