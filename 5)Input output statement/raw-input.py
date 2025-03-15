@@ -44,5 +44,12 @@ print("employe number :", eno)
 
 print()
 
-#kanha
+
+print("employe adress :",eaddar)
+print("employe married :",marrid)
+print("employe number :",marrid)
+print("employe number :", eno)
+
+print()
+
 
