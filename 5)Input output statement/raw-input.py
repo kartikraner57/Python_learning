@@ -29,14 +29,14 @@
 ###___________________________________________________________________________________________________________
 # 6
 
-my_no = int(input("inter the my number :"))
-my_name = input("interr thee myname :")
-my_address = input("my adrress :")
-my_sallory = float(input("my sallory :"))
-i_marrid = bool(input("are you marrid :"))
+# my_no = int(input("inter the my number :"))
+# my_name = input("interr thee myname :")
+# my_address = input("my adrress :")
+# my_sallory = float(input("my sallory :"))
+# i_marrid = bool(input("are you marrid :"))
 
-print("your number :",my_no,)
-print("your name :",my_name)
-print("your sallory :",my_sallory)
-print("your addreess :",my_address)
-print(i_marrid,"are marrid :")
+# print("your number :",my_no,)
+# print("your name :",my_name)
+# print("your sallory :",my_sallory)
+# print("your addreess :",my_address)
+# print(i_marrid,"are marrid :")
