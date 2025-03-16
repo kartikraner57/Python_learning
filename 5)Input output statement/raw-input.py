@@ -91,7 +91,7 @@
 
 # [int(x) for x in input ("enter the two nummber : ").split()[10,20]]
 
-# a, b = [int(x) for x in input("Enter 2 numbers separated by space: ").split(,)]
+# a, b = [int(x) for x in input("Enter 2 numbers separated by space: ").split(",")]
 # print("The sum:", a + b)
 
 # s = input("Enter the number:")
@@ -124,5 +124,9 @@
 
 ##ths is he short form
 
-a, b = [int(x) for x  in input("enter the two number").split()]
-print("the sum : ",a+b)
+# a, b = [int(x) for x  in input("enter the two number").split()]
+# print("the sum : ",a+b)
+
+# writr the program to read  3 float value fromm the keyword separation and print the sum
+a,b,c = [float(x) for x in input("enter the three float value with  separation :").split(",")]
+print("the sum :",a + b + c)
