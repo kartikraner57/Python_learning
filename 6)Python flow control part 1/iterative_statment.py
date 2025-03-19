@@ -26,5 +26,10 @@
 #     print(x)
 #     if x % 2:
 #         print(x)
-for x in range(1,20,2):
-    print(x)
+
+
+# for x in range(1,20,2):
+#     print(x)
+
+
+
