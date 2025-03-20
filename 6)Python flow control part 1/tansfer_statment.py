@@ -1,11 +1,11 @@
 ############ Transfer Statements : 1)break statment
 ########## 1) break: We can use break statement inside loops to break loop execution based on some condition. 
 
-# for i in range(10): #i = 10
-#     if i==7: 
-#         print("processing is enough,break loop exicution") 
-#         break 
-#     print(i)
+for i in range(10): #i = 10
+    if i==7: 
+        print("processing is enough,break loop exicution") 
+        break 
+    print(i)
 
 # for i in range(10): #i = 10
 #     if i==8: 
@@ -31,8 +31,8 @@
 
 
 
-x =10 
-if x > 40:
-    print("wea are stoping progam")
-    break 
-print("helow")
+# x =10 
+# if x > 40:
+#     print("wea are stoping progam")
+#     break 
+# print("helow")##is you want to use a break statment compulsory, youshould  br inside the loop,ouy side the loop break statment cannot be used.
