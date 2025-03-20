@@ -45,9 +45,17 @@
 #         continue
 #     print(i)
 
-cart = [10,20,500,700,50,60]
-for item in cart:
-    if item >=500:
-        print("we can notprocess this item :",item)
+# cart = [10,20,500,700,50,60]
+# for item in cart:
+#     if item >=500:
+#         print("we can notprocess this item :",item)
+#         continue
+#     print(item)
+
+
+nummbers =[10,20,0,5,30]
+for n in nummbers:
+    if n == 0:
+        print("hey how we can divide with zero .. join skipping")
         continue
-    print(item)
+    print("100/{}={}".format(n,100/n))
