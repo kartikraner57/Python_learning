@@ -18,5 +18,5 @@ s.append(30)
 print(s)
 s.append(40)
 print(s)
-s.remove(30)
+s.remove(30)#remove
 print(s)

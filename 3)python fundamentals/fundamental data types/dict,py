@@ -1,6 +1,7 @@
-#dict = key value pair
+#dict = key value pair,mutable,indexing and slicing not aplicable,order not,duplicate key value,heterojnesus object
 d = {100:"durga",200:"kanha",300:"shubham"}
 print(d)
 print(type(d))
 a={}
 print(type(a))#=>empty dict
+

@@ -9,5 +9,5 @@ print(k[0:-4])
 k = ()
 k =(10)
 print(type(k))
-k = (10,)
+k = (10,) #important
 print(type(k))

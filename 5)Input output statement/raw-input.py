@@ -128,5 +128,5 @@
 # print("the sum : ",a+b)
 
 # writr the program to read  3 float value fromm the keyword separation and print the sum
-a,b,c = [float(x) for x in input("enter the three float value with  separation :").split(",")]
-print("the sum :",a + b + c)
+a,b,c = [float(x) for x in input("enter the three float value with  separation :").split(",")] #enter the three float value with  separation :6.8,9.0,6.8
+print("the sum :",a + b + c)#the sum : 22.6
