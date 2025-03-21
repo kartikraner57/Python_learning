@@ -2,10 +2,13 @@
 ########## 1) break: We can use break statement inside loops to break loop execution based on some condition. 
 
 # for i in range(10): #i = 10
-    # if i==7: 
-    #     print("processing is enough,break loop exicution") 
-    #     break 
-    # print(i)
+#  if i==7: 
+#     print("processing is enough,break loop exicution") 
+#     break 
+# print(i)
+
+
+
 
 # for i in range(10): #i = 10
 #     if i==8: 
@@ -15,9 +18,9 @@
 # print('outside of loop')
 
 
-# cart =[10,20,600,70,80]
+# cart =[10,500,20,600,70,700,80,900]
 # for item in cart :
-#     if item >600:
+#     if item >100:
 #         print("to place this order insurence must be required")
 #         break 
 #     print("processing item ",item)
@@ -37,25 +40,41 @@
 #     break 
 # print("helow")##is you want to use a break statment compulsory, youshould  br inside the loop,ouy side the loop break statment cannot be used.
 
-
+#########___________________________________________________________________________________________________________________________________________________
 
 ########2)continue: We can use continue statement to skip current iteration and continue next iteration.
 # for i in range(10):
 #     if i%2==0:
 #         continue
 #     print(i)
-
-# cart = [10,20,500,700,50,60]
+# ########continue
+# cart = [10,20,500,700,1000,50,60,5000,100]
 # for item in cart:
 #     if item >=500:
-#         print("we can notprocess this item :",item)
+#         print("incurence must be required =,jast skipping item :",item)
 #         continue
-#     print(item)
+#     print("processing item :",item)
+# #########break
+cart = [10,20,500,700,1000,50,60,5000,100]
+for item in cart:
+    if item >=5000:
+        print("incurence must be required =,jast skipping item :",item)
+        break
+    print("processing item :",item)
 
 
-nummbers =[10,20,0,5,30]
-for n in nummbers:
-    if n == 0:
-        print("hey how we can divide with zero .. join skipping")
-        continue
-    print("100/{}={}".format(n,100/n))
+
+# #######continue
+# nummbers =[10,20,0,5,30]
+# for n in nummbers:
+#     if n == 0:
+#         print("hey how we can divide with zero .. join skipping")
+#         continue
+#     print("100/{}={}".format(n,100/n))
+# #####break
+# nummbers =[10,20,0,5,30]
+# for n in nummbers:
+#     if n == 0:
+#         print("hey how we can divide with zero .. join skipping")
+#         break
+#     print("100/{}={}".format(n,100/n))
