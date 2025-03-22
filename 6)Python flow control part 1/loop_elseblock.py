@@ -19,16 +19,39 @@
 # n=int(input("Enter number:")) 
 # sum=0 
 # i=1 
-# while i<=n: 
+# while i<=n:
 #  sum=sum+i 
 #  i=i+1 
-#  print("The sum of first",n,"numbers is :",sum)
+# print("The sum of first numbers is :",sum)
 ###### to print numbers from 1 to 20 which are divide by 3
 # 
 # 
 # 
-x = 1
-while x <= 20:
-    if x % 3 == 0:
-        print(x)
-    x = x + 1 
+# x = 1
+# while x <= 20:
+#     if x % 3 == 0:
+#         print(x)
+#     x = x + 1  # Move outside the if condition
+
+
+# name =""
+# while name != "sunny":
+#     name = input("your favourite actres : ")
+# print( "thanks for confirmantion")
+
+
+######___________________________________
+######infinite loops
+# i=0; 
+# while True : 
+#     i=i+1; 
+#     print("Hello",i)
+# ############ nested loop
+# for i in range (3):#0,1,2
+#     for j in range(2):#0,1
+#         print("helow")
+
+
+for i in range(3):
+    for j in range(2):
+        print("i ={}, j ={}".format(i,j))
