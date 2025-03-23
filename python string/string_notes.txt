@@ -1,0 +1,31 @@
+The most commonly used object in any project and in any programming language is String
+only. Hence we should aware complete information about String data type.
+What is String?
+Any sequence of characters within either single quotes or double quotes is considered as a
+String.
+Syntax:
+s = 'durga'
+s = "durga"
+Note: In most of other languges like C, C++, Java, a single character with in single quotes
+is treated as char data type value. But in Python we are not having char data type.Hence it
+is treated as String only.
+Eg:
+>>> ch = 'a'
+>>> type(ch)
+<class 'str'>
+How to define multi-line String Literals?
+We can define multi-line String literals by using triple single or double quotes.
+Eg:
+>>> s = '''durga
+software
+solutions'''
+We can also use triple quotes to use single quotes or double quotes as symbol inside
+String literal.
+1) s = 'This is ' single quote symbol'  Invalid
+2) s = 'This is \' single quote symbol'  Valid
+3) s = "This is ' single quote symbol"  Valid
+4) s = 'This is " double quotes symbol'  Valid
+5) s = 'The "Python Notes" by 'durga' is very helpful'  Invalid
+6) s = "The "Python Notes" by 'durga' is very helpful"  Invalid
+7) s = 'The \"Python Notes\" by \'durga\' is very helpful'  Valid
+8) s = '''The "Python Notes" by 'durga' is very helpful'''  Val
