@@ -67,12 +67,12 @@
 
 
 # #######continue
-nummbers =[10,20,0,5,30]
-for n in nummbers:
-    if n == 0:
-        print("hey how we can divide with zero .. join skipping")
-        continue
-    print("100/{}={}".format(n,100/n))
+# nummbers =[10,20,0,5,30]
+# for n in nummbers:
+#     if n == 0:
+#         print("hey how we can divide with zero .. join skipping")
+#         continue
+#     print("100/{}={}".format(n,100/n))
 # #####break
 # nummbers =[10,20,0,5,30]
 # for n in nummbers:
@@ -123,11 +123,11 @@ for n in nummbers:
 
 
 ##########3 Loops with else Block: 
-########## Inside loop execution, if break statement not executed, then only else part will be executed. 
-########## else means loop without break.
+# ########## Inside loop execution, if break statement not executed, then only else part will be executed. 
+# ########## else means loop without break.
 # cart=[10,20,30,40,50] 
 # for item in cart: 
-#     if item>=56: 
+#     if item>=49: 
 #         print("We cannot process this order") 
 #         break 
 #     print("processing",item)
@@ -138,7 +138,7 @@ for n in nummbers:
 
 # cart=[10,20,30,600,40,50] 
 # for item in cart: 
-#     if item>=56: 
+#     if item>=66: 
 #         print("We cannot process this order") 
 #         break 
 #     print("processing",item)
@@ -148,11 +148,16 @@ for n in nummbers:
 
 
 
-# cart=[10,20,30,600,40,50] 
-# for item in cart: 
-#     if item>=56: 
-#         print("We cannot process this order") 
-#         continue
-#     print("processing",item)
-# else:
-#     print("Congrats ...all items processed successfully")
+cart=[20,10,30,600,40,50,800] 
+for item in cart: 
+    if item>=100: 
+        print("We cannot process this item because of insurence") 
+        continue
+    print("processing",item)
+else:
+    print("Congrats ...all items processed successfully")
+
+
+
+
+
