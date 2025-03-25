@@ -33,5 +33,9 @@
 # for x in s:
 #     print("the character present at +ve index : {} and at -ve index: {} is : {} ".format(i, i-len(s),x))
 #     i = i+1
-s1 =("a,s,d,f,g,h,j,k")
-print(s1,slice[3 : 6])
+# s1 = "a,s,d,f,g,h,j,k"
+# print(s1[3:6])  # Extracts characters from index 3 to 5 , slice oppertor use
+# print(s1[3:])  # Extracts characters from index 3 to the end
+
+s="Learning Python is very very easy!!!"
+print(s[1:7:1])# 3) 'earnin' 4) >>> s[1:7] 5) 'earnin' 6) >>> s[1:7:2] 7) 'eri' 8) >>> s[:7] 9) 'Learnin' 10) >>> s[7:] 11) 'g Python is very very easy!!!' 12) >>> s[::] 13) 'Learning Python is very very easy!!!' 14) >>> s[:] 15) 'Learning Python is very very easy!!!' 16) >>> s[::-1] 17) '!!!ysae yrev yrev si nohtyP gninraeL'
