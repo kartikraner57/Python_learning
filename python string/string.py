@@ -28,11 +28,10 @@
 # print(l)
 
 ############wap to display of given index(both +ve and -ve) of string
-s = input("enter same string :")
+#s = input("enter same string :")
 # i = 0
 # for x in s:
 #     print("the character present at +ve index : {} and at -ve index: {} is : {} ".format(i, i-len(s),x))
 #     i = i+1
-
-
-print(s)
+s1 =("a,s,d,f,g,h,j,k")
+print(s1,slice[3 : 6])
