@@ -35,3 +35,4 @@ s = input("enter same string :")
 #     i = i+1
 
 
+print(s)
