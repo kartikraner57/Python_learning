@@ -20,4 +20,6 @@ print(s.index('b'))#1
 
 #print(s.index('z'))#value error
 print(s.index('b'))#3
+print(s.index('b'))#3
+
 #print(s.index('z'))#value eror
