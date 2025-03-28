@@ -17,6 +17,7 @@ print(s1.find('B',3,8))#-1
 
 s ='a,b,c,d e,'
 print(s.index('b'))#1
+
 #print(s.index('z'))#value error
 print(s.index('b'))#3
 #print(s.index('z'))#value eror
