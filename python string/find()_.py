@@ -11,12 +11,12 @@
 # print(s.rfind("r"))#21
 
 
-s = 'a b c d e f g h i j b '
-print(s.find('B'))
-print(s.find('B',3,8))
+s1 = 'a b c d e f g h i j b '
+print(s1.find('B'))#-1
+print(s1.find('B',3,8))#-1
 
 s ='a,b,c,d e,'
-print(s.index('b'))
-print(s.index('z'))
-print(s.index('b'))
-print(s.index('z'))
+print(s.index('b'))#1
+#print(s.index('z'))#value error
+print(s.index('b'))#3
+#print(s.index('z'))#value eror
