@@ -61,24 +61,55 @@
 # print(l) # ['Durga', 'Software', 'Solutions']
 
 # 
-s = "Durga Software Solutions"
-l = s.split()
-l1 = []
-for word in l :
-    l1.append(word[::-1])
-print(l1) # 
-output = ' '.join(l1)
-print(output) # 'agruD erawtfoS snoituloS'
+# s = "Durga Software Solutions"
+# l = s.split()
+# l1 = []
+# for word in l :
+#     l1.append(word[::-1])
+# print(l1) # 
+# output = ' '.join(l1)
+# print(output) # 'agruD erawtfoS snoituloS'
 
 
 
 
-# 
+
 #  
-#  s=input('Enter Any String:') 
+# s=input('Enter Any String:') 
 # l=s.split() 
 # l1=[] 
 # for word in l: 
-# l1.append(word[::-1]) 
+#   l1.append(word[::-1]) 
 # output=' '.join(l1)
+# print(output)
+
+
+############# Q6) Write a Program To REVERSE internal content of every second word present in the given string?
+# s = "durgasoft"
+# i = 0
+# print("charcter preseent at even index is:")
+# while i < len(s):
+#     print(s[i])
+#     i = i + 2
+# i = 1
+# print("charcter preseent at odd index is:")
+# while i < len(s):
+#     print(s[i])
+#     i = i + 2
+
+
+# s = "durgasoft"
+# print('character present at even index is :',s[: : 2])
+# print('character present at odd index is:',s[1 : : 2])
+
+################### Q5) Write a Program To REVERSE internal content of each word? 
+# 1) input: 'Durga Software Solutions'
+# output: 'agruD erawtfoS snoituloS' 
+ 
+# s=input('Enter Any String:')  
+# l=s.split() 
+# l1=[] 
+# for word in l: 
+#     l1.append(word[::-1]) 
+# output=' '.join(l1) 
 # print(output)
