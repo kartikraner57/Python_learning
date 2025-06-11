@@ -42,4 +42,3 @@ b = 23
 c = a + b
 print(c)
 c = a + b
-git 
