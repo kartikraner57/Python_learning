@@ -93,3 +93,8 @@ GeneratorExit
 # print(str.find("a"))
 # print(str.find("from"))
 GeneratorExit 
+ print(str.replace("o","a"))
+# print(str.find("o"))
+# print(str.find("a"))
+# print(str.find("from"))
+GeneratorExit gi
