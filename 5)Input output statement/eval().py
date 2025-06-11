@@ -8,3 +8,4 @@
 
 # x = eval(input("enter the sum things :"))#enter the sum things :7.9
 # print(type(x))#<class 'float'>
+# print(type(x))#<class 'float'>

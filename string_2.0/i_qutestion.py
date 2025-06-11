@@ -113,3 +113,4 @@
 #     l1.append(word[::-1]) 
 # output=' '.join(l1) 
 # print(output)
+

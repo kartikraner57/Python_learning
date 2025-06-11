@@ -1,10 +1,8 @@
-language fundamentals :
+language fundamentals 
 
-#introduction 
-
-
- #test.py =file of python
-  #"guido van Rosson" this  person  introduce python(1989) NRI Netherland .
+#introduction
+#test.py =file of pytho
+#"guido van Rosson" this  person  introduce python(1989) NRI Netherland .
   IN feb 20th 1991 introduce to  public.
 
 python = 
@@ -104,7 +102,6 @@ limitations of  python =>
 1)mobile applications = pyhon is not suitable to develop mobile application
 2)entrprice application = banking application , telecom application
 3)performance is low =interpreted programming languages are lack of performance.
-4)
 
 
 
@@ -121,11 +118,11 @@ Flavors of python :
 python versions
 python 0.9.0. => feb 20th 1991
 python 1.0    => jan 1994
-Python 2.0 October 16th, 2000.PY2K. = Python three point x developed has completely independent language.
- Python 3.0 came December 3rd, 2008 PY3K.
+Python 2.0 October 16th, 2000.PY2K. =  Python three point x developed has completely independent language.
+Python 3.0 came December 3rd, 2008 PY3K.
 
- Python three point x developed has completely independent language.
- Assume that python three x is not a extension to python two x.
+Python three point x developed has completely independent language.
+Assume that python three x is not a extension to python two x.
 
 It is a developed a completely independent language.
 
@@ -164,9 +161,6 @@ it is REPL tool ,= r=>read
 
 
 
-
-
-
 python identifiers = A name in Python program is called identifier, 
 which can be used for identification purpose.
 It can be a method name variable name class name which can be used for identification purpose.
@@ -198,13 +192,6 @@ x => simple
 _x => protected
 __x =>private
 __x__ =>magic veriable
-
-
-
-
-
-
-
 
 
 3.l2

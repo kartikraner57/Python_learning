@@ -30,4 +30,4 @@
 
 s = "durga"
 s = None
-print(s) 
+print(s) # output : None

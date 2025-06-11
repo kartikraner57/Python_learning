@@ -1,0 +1,51 @@
+list
+
+
+
+
+If we want to represent a group of individual objects as a single entity where insertion order preserved and duplicates are allowed, then we should go for List.
+
+ ֍ insertion order preserved. 
+ 
+ ֍ duplicate objects are allowed. ֍ heterogeneous objects are allowed. 
+ 
+ ֍ List is dynamic because based on our requirement we can increase the size and decrease the size. 
+ 
+ ֍ In List the elements will be placed within square brackets and with comma seperator.
+ 
+ ֍ We can differentiate duplicate elements by using index and we can preserve insertion order by using index. Hence index will play very important role. 
+ 
+ ֍ Python supports both positive and negative indexes. +ve index means from left to right where as negative index means right to left. [10,"A","B",20, 30, 10]
+
+
+10 A B 20 30 10
+
+֍ List objects are mutable.i.e we can change the content
+
+
+#####Creation of List Objects:
+#1) We can create empty list object as follows... 
+1) list=[] 
+2) print(list) 
+3) print(type(list)) 
+4) 
+5) [] 
+6) <class 'list'> 
+#2) If we know elements already then we can create list as follows list = [10, 20, 30, 40]
+
+#3) With Dynamic Input: 
+1) list=eval(input("Enter List:")) 
+2) print(list) 
+3) print(type(list)
+
+#4) With list() Function: 
+1) l=list(range(0,10,2)) 
+2) print(l) 
+3) print(type(l))
+
+
+#5) With split() Function: 
+1) s="Learning Python is very very easy !!!" 
+2) l=s.split() 
+3) print(l) 
+4) print(type(l))

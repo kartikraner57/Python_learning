@@ -43,5 +43,5 @@ print(s[1:7]) #'earnin'
 print(s[1:7:2]) #'eri' 
 print(s[:7])#'Learnin' 
 print(s[7:]#'g Python is very very easy!!!' 
-print(s[::] 13))# 'Learning Python is very very easy!!!' 
-s[:] 15) 'Learning Python is very very easy!!!' 16) >>> s[::-1] 17) '!!!ysae yrev yrev si nohtyP gninraeL'
+print(s[::] 13))# 'Learning Python is very very easy!!!' s[:] 
+15) 'Learning Python is very very easy!!!' 16) >>> s[::-1] 17) '!!!ysae yrev yrev si nohtyP gninraeL'

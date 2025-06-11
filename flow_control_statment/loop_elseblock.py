@@ -55,3 +55,14 @@
 for i in range(3):
     for j in range(2):
         print("i ={}, j ={}".format(i,j))
+
+
+#####Q) What is the difference between for loop and while loop in Python?
+#  ֍ We can use loops to repeat code execution 
+# ֍ Repeat code for every item in sequence =>for loop 
+# ֍ Repeat code as long as condition is true => while loop
+
+###Q) How to exit from the loop? =>By using break statement
+#####Q)When else part will be executed wrt loops?=> If loop executed without break
+#3#### how to skip some current iterration inside loop?=>by using continue statment
+#3### when else part will be executed in loops? =>If loop executed without break, then only else block will be executed.

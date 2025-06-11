@@ -148,14 +148,14 @@
 
 
 
-cart=[20,10,30,600,40,50,800] 
-for item in cart: 
-    if item>=100: 
-        print("We cannot process this item because of insurence") 
-        continue
-    print("processing",item)
-else:
-    print("Congrats ...all items processed successfully")
+# cart=[20,10,30,600,40,50,800] 
+# for item in cart: 
+#     if item>=100: 
+#         print("We cannot process this item because of insurence") 
+#         continue
+#     print("processing",item)
+# else:
+#     print("Congrats ...all items processed successfully")
 
 
 

@@ -55,4 +55,4 @@
 # s="durgaravipavanshiva" 
 # print(s.index('a'))#4 
 # print(s.index('a',7,15))#10 
-# 4) print(s.index('z',7,15))#-1 
+## 4) print(s.index('z',7,15))# value error

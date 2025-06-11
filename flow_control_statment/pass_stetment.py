@@ -62,26 +62,26 @@
 # h = homeLoan()
 # print(h.getInterestRate())  # Output: 8
 
-from abc import ABC, abstractmethod
+# from abc import ABC, abstractmethod
 
-class Loan(ABC):
-    @abstractmethod
-    def getInterestRate(self):
-        pass
+# class Loan(ABC):
+#     @abstractmethod
+#     def getInterestRate(self):
+#         pass
 
-class HomeLoan(Loan):
-    def getInterestRate(self):
-        return 8
+# class HomeLoan(Loan):
+#     def getInterestRate(self):
+#         return 8
 
-class VehicleLoan(Loan):
-    def getInterestRate(self):
-        return 11
+# class VehicleLoan(Loan):
+#     def getInterestRate(self):
+#         return 11
 
-h = HomeLoan()
-print(h.getInterestRate())  
+# h = HomeLoan()
+# print(h.getInterestRate())  
 
-v = VehicleLoan()
-print(v.getInterestRate())  
-################Use Case of pass: Sometimes in the parent class we have to declare a function with empty body and child class responsible 
-# to provide proper implementation. Such type of empty body we can define by using pass keyword.
-#  (It is something like abstract method in Java)
+# v = VehicleLoan()
+# print(v.getInterestRate())  
+# ################Use Case of pass: Sometimes in the parent class we have to declare a function with empty body and child class responsible 
+# # to provide proper implementation. Such type of empty body we can define by using pass keyword.
+# #  (It is something like abstract method in Java)

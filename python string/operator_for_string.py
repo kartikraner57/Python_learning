@@ -1,5 +1,5 @@
 # 
-# #########compresion operator 
+##########compresion operator 
 ###########Mathematical Operators for String:
 ##############Membership  Operators
 
@@ -28,6 +28,10 @@
 
 
 # ############## lstrip() , rstrip() , strip()
+
+# s = "   hello world   "
+# print(s.lstrip()) # remove leading space
+
 
 # city = input("enter city name :")
 # scity = city.strip()
@@ -90,9 +94,11 @@
 # print("durga" not in "durga software solutions")  # Output: False
 # print("durga" in "durga software solutions")  # Output: True
 
-s = input("inter the  main string:")
-subs =  input("enter the sub string :")
-if subs in s:
-    print("sub string is present in main string")
-else:
-    print("sub string is not present in main string")
+
+
+# s = input("inter the  main string:")
+# subs =  input("enter the sub string :")
+# if subs in s:
+#     print("sub string is present in main string")
+# else:
+#     print("sub string is not present in main string")
