@@ -16,11 +16,23 @@ print(len(d))
 
 ######key():
 # It returns list of tuples representing key-value pairs. [(k,v),(k,v),(k,v)] 
-# d={100:"durga",200:"ravi",300:"shiva"} 
-# for k,v in d.items(): 
-#    print(k,"--",v)
+
+# d = {100: "durga", 200: "ravi", 300: "shiva"}
+
+# print(d.keys())
+
+# for k in d.keys():
+#     print(k)
+
+##########8) values(): It returns all values associated with the dictionary.
+d = {100: "durga", 200: "ravi", 300:"shiva"}
+print(d.values())
+for v in d.values():
+    print(v)
+    
+
 
 ######9) items(): It returns list of tuples representing key-value pairs. [(k,v),(k,v),(k,v)] 
 # d={100:"durga",200:"ravi",300:"shiva"} 
 # for k,v in d.items(): 
-# print(k,"--",v
+#     print(k,"--",v)
