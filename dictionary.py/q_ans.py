@@ -8,15 +8,28 @@
 #     print("Key not found in dictionary.")
 
 ##### vip
-d = {100: "A", 200: "B", 300: "C", 400: "D"}
-value = input("Enter the value to find its key: ")
-available = False
+# d = {100: "A", 200: "B", 300: "C", 400: "D"}
+# value = input("Enter the value to find its key: ")
+# available = False
 
-for k, v in d.items():
-    if v == value:
-        print("The corresponding key:", k)
-        available = True
-        break
+# for k, v in d.items():
+#     if v == value:
+#         print("The corresponding key:", k)
+#         available = True
+#         break
 
-if available == False:
-    print("Provided value not found in dictionary.")
+# if available == False:
+#     print("Provided value not found in dictionary.")
+
+
+
+
+
+
+
+# 1)i) pop(key)
+d={100:"durga",200:"ravi",300:"shiva"}
+print(d.pop(100))  
+print(d)        
+
+# print(d.pop(400)) KeyError: 400  
