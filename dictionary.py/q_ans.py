@@ -27,9 +27,30 @@
 
 
 
-# 1)i) pop(key)
-d={100:"durga",200:"ravi",300:"shiva"}
-print(d.pop(100))  
-print(d)        
+# # 1)i) pop(key)
+# d={100:"durga",200:"ravi",300:"shiva"}
+# print(d.pop(100))  
+# print(d)        
+# # print(d.pop(400)) KeyError: 400  
 
-# print(d.pop(400)) KeyError: 400  
+
+# # ii) pop(key,value)
+# d={100:"durga",200:"ravi",300:"shiva"}
+# print(d.pop(300,"current"))
+# print(d.pop(700,"Guest"))
+
+# iii)popitem():
+# d = {100: "durga", 200: "ravi", 300: "shiva"}   
+# print(d)                                       
+# print(d.popitem())                             
+# print(d)                                       
+
+# d = {100: "durga", 200: "ravi", 300: "shiva"}   
+# print(d)                                       
+# print(d.popitem())                             
+# print(d)                                       
+# d = {100: "durga", 200: "ravi", 300: "shiva"}   
+# print(d)                                       
+# print(d.popitem())                             
+# print(d)                                       
+
