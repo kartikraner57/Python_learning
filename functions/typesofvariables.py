@@ -10,7 +10,7 @@ def f2():
 f1()
 f2()
 
-# Local Variables
+# 
 def f1():
     a = 10
     print(a)  # valid
