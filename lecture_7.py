@@ -28,3 +28,30 @@
 #     print("You are an adult.")
 # else:
 #     print("You are a senior citizen.")
+
+
+class student:
+    ''' This class developed by Durga for demo purpose '''
+    
+    def __init__(self):  # Corrected constructor
+        self.name = "durga"
+        self.rollno = 101
+        self.marks = 90
+
+    def talk(self):
+        print("Hello, my name is:", self.name)
+        print("My rollno is:", self.rollno)  # Fixed typo here
+        print("My marks are:", self.marks)
+
+# Creating object
+s = student()
+
+# Accessing attributes
+print(s.name)
+print(s.rollno)
+print(s.marks)
+
+# Calling method
+s.talk()
+
+
