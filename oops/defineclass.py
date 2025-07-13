@@ -34,3 +34,19 @@ print("the adrres of objrct pointed by  t: ", id(t))
 
 
 print("add the number")  # This line will be printed
+
+
+
+
+class Student:
+    '''Developed by Durga for Python demo'''
+
+    def __init__(self):
+        self.name = 'durga'
+        self.age = 40
+        self.marks = 80
+
+    def talk(self):
+        print("Hello I am:", self.name)
+        print("My Age is:", self.age)
+        print("My Marks are:", self.marks)
