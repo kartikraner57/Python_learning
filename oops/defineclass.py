@@ -1,10 +1,11 @@
 
+# #### How to define a Class?
 
-class Student:
-    ''' This is student class with required data '''
+# class Student:
+#     ''' This is student class with required data '''
 
-print(Student.__doc__)   # Prints the docstring
-help(Student)            # Shows the class documentation
+# print(Student.__doc__)   # Prints the docstring
+# help(Student)            # Shows the class documentation
 
 
 # class student:
@@ -24,3 +25,12 @@ help(Student)            # Shows the class documentation
 # s.talk()
 
 
+class Test :
+ def __init__(self):
+    print("the address of object pointed by self :",id(self))
+t = Test()
+print("the adrres of objrct pointed by  t: ", id(t))
+
+
+
+print("add the number")  # This line will be printed
