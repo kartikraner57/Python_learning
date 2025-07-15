@@ -51,3 +51,10 @@ class Student:
         print("My Age is:", self.age)
         print("My Marks are:", self.marks)
 
+class Test:
+    def __init__(self):
+        print("Constructor execution...")
+
+    def m1(self):
+        print("Method execution...")
+
