@@ -25,15 +25,15 @@
 # s.talk()
 
 
-class Test :
- def __init__(self):
-    print("the address of object pointed by self :",id(self))
-t = Test()
-print("the adrres of objrct pointed by  t: ", id(t))
+# class Test :
+#  def __init__(self):
+#     print("the address of object pointed by self :",id(self))
+# t = Test()
+# print("the adrres of objrct pointed by  t: ", id(t))
 
 
 
-print("add the number")  # This line will be printed
+# print("add the number")  # This line will be printed
 
 
 
