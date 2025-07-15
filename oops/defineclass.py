@@ -58,3 +58,11 @@ class Test:
     def m1(self):
         print("Method execution...")
 
+# Creating objects
+t1 = Test()
+t2 = Test()
+t3 = Test()
+
+# Calling method on one object
+t1.m1()
+
