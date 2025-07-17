@@ -65,5 +65,13 @@ t3 = Test()
 
 # Calling method on one object
 t1.m1()
-t.__dict__ = {'a': 10, 'b': 20}
+
+
+
+
+
+
+
+
+
 
