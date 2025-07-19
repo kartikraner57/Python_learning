@@ -64,6 +64,9 @@ t2 = Test()
 t3 = Test()
 
 
+# Calling method on one object
+t1.m1()
+
 
 
 
