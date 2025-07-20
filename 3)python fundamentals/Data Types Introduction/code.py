@@ -17,3 +17,4 @@ print(type(name))  # Output: <class 'str'>
 is_active = True
 print(is_active)  # Output: True
 print(type(is_active))  >
+
