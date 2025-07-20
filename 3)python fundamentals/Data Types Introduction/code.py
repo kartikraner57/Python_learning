@@ -4,7 +4,7 @@ print(x)  # Output: 5
 print(type(x))  # Output: <class 'int'>
 
 # Float
-y = 3.14
+y = "omkar"
 print(y)  # Output: 3.14
 print(type(y))  # Output: <class 'float'>
 
