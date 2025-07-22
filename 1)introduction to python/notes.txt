@@ -155,10 +155,7 @@ We can run python code by using python ide lg.
 
 What is this ideal python? = integrated development and learning environment 
 it is REPL tool ,= r=>read
-                   e=>evolve
-                   p=>print
-                   l=>loop
-
+            
 
 
 python identifiers = A name in Python program is called identifier, 
