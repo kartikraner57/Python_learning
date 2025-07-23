@@ -153,11 +153,6 @@ Python 3.7.2.
 install from python.org
 We can run python code by using python ide lg.
 
-What is this ideal python? = integrated development and learning environment 
-it is REPL tool ,= r=>read
-                   e=>evolve
-                   p=>print
-                   l=>loop
 
 
 
@@ -199,6 +194,4 @@ __x__ =>magic veriable
 
 
 Reserved words are only regarding how many reserved words 33 reserved words.
-
-
 
