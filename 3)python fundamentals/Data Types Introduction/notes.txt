@@ -39,9 +39,3 @@ set	             Unordered collection of unique elements	{1, 2, 3}, {1, 2, 2}
 frozenset  	     Immutable set	frozenset([1, 2, 3])
 bool	         Boolean (True/False)	True, False
 bytes	         Immutable sequence of bytes	b'hello'
-bytearray	     Mutable sequence of bytes	bytearray([65, 66])
-memoryview  	 Memory view object	memoryview(b"hello")
-None	         Represents no value or null value	None
-
-
-fundamental dta types are int,float,complex,bool and str .
