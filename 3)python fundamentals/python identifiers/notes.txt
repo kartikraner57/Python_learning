@@ -31,6 +31,6 @@ Q.)which of the following are valid pthon identifiers ?
 x => simple
 _x => protected
 __x =>private
-__x__ =>magic veriable
+__x__ =>magic veriable 
 
 
