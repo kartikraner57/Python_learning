@@ -28,9 +28,4 @@ Q.)which of the following are valid pthon identifiers ?
 7)if (wrong)
 8)-durga__python(right) 
 
-x => simple
-_x => protected
-__x =>private
-__x__ =>magic veriable
-
 
