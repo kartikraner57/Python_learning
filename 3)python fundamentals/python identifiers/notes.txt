@@ -27,5 +27,7 @@ Q.)which of the following are valid pthon identifiers ?
 6)java2share(right)
 7)if (wrong)
 8)-durga__python(right) 
+git add .
+g
 
-
+z
