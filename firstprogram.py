@@ -138,7 +138,7 @@
 # frozen_set = frozenset([1, 2, 3])  # frozenset
 
 # # Boolean Type
-# is_active = True    # bool
+# is_active = True   
 
 # # Binary Types
 # b = bytes([65, 66, 67])  # bytes
