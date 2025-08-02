@@ -152,7 +152,7 @@
 # # print(info)
 
 a = 5
-b =5
+b =4
 c= 4
 print(a + c  * b)
 
