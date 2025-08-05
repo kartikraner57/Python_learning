@@ -148,10 +148,7 @@
 # #value = None  # NoneType
 # #print(null_dict)
 # # print(info)
-# # info["name"]= "kartik raner"
-# # print(info)
 
-a = 5
 b =4
 c= 4
 print(a + c  * b)
