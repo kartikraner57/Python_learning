@@ -156,7 +156,7 @@ b =4
 c= 4
 print(a + c  * b)
 
-a = 5
+a = 
 b =5
 c= 4
 print(a + c  * b)
