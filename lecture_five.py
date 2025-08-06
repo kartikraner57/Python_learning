@@ -109,7 +109,7 @@
 
   ##  break and continue
   #break : use to termine the loop when encountered
-  #r
+  #couninue : terminates exicution in the current iter
 
 # i = 1 
 # while i <= 5:
