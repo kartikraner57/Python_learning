@@ -128,7 +128,10 @@
 # i = 0 #
 # while i < len(nums):
 #     if(nums[i] == x):
-#         print("found at i
+#         print("found at inx", i)
+#         break
+#     else:
+#         print("finding ..")
 #     i += 1
 
 # print("end of loop")
