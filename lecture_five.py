@@ -131,7 +131,7 @@
 #         print("found at inx", i)
 #         break
 #     else:
-#         print("finding ..")
+#         print("findin..")
 #     i += 1
 
 # print("end of loop")
