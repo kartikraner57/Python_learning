@@ -193,7 +193,10 @@
 
 # grade = ["c", "D", "A", "A", "B", "B", "A"]
 
-# gr
+# grade.sort()
+# print(grade)
+
+
 
 
 
