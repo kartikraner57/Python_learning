@@ -4,7 +4,8 @@ class student :
         self.marks=marks
     def display(self):
         print("hi",self.name)
-        print("hi",self.marks)
+        print("You got", self.marks, "marks")
+
     def grade(self):
         if self.marks >= 60:
             print("you got first grade ")
