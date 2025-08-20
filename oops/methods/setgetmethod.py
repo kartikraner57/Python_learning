@@ -23,4 +23,4 @@ for i in range(n):
 
     print('Hi', s.getName())
     print('Your Marks are:', s.getMarks())
-    print()
+    print(
