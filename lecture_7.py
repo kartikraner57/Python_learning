@@ -20,7 +20,6 @@
 
 
 # age = int(input("Please enter your age: "))
-
 # # Print a message based on the age
 # if age < 18:
 #     print("You are a minor.")
