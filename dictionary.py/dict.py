@@ -9,6 +9,8 @@
 # print(d[100])  
 # print(d[300])  
 
+
+
 # rec = {}  # Step 1: Create an empty dictionary
 
 # n = int(input("Enter number of students: "))  # Step 2: Input total number of students
@@ -27,12 +29,16 @@
 
 
 
-# update
-d = {100: "durga", 200: "ravi", 300: "shiva"} 
-print(d)                                     
+# # update
+# d = {100: "durga", 200: "ravi", 300: "shiva"} 
+# print(d)                                     
 
-d[400] = "pavan"                              
-print(d)                                      
+# d[400] = "pavan"                              
+# print(d)                                      
 
-d[100] = "sunny"                              
-print(d)                                    
+# d[100] = "sunny"                              
+# print(d)                                    
+
+
+
+
