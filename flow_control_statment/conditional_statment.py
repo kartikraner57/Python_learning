@@ -180,37 +180,37 @@ print(output)
 
 
 
-n = int(input("Enter a number from 0 to 99: "))
+# n = int(input("Enter a number from 0 to 99: "))
 
-words_upto_19 = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
-                 "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
+# words_upto_19 = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine",
+#                  "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
 
-word_for_tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+# word_for_tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
 
-if n == 0:
-    output ="zero"
-elif n <= 19:
-    output = word_for_tens[n // 10]
-elif n <= 99:
-    output = word_for_tens[n // 10] + "-" + words_upto_19[n % 10]
-else:
-    output = "Please enter a number from 0 to 99."
+# if n == 0:
+#     output ="zero"
+# elif n <= 19:
+#     output = word_for_tens[n // 10]
+# elif n <= 99:
+#     output = word_for_tens[n // 10] + "-" + words_upto_19[n % 10]
+# else:
+#     output = "Please enter a number from 0 to 99."
 
-print(output)
+# print(output)
 
-words_upto_19=['','ONE','TWO','THREE','FOUR','FIVE','SIX',
-'SEVEN','EIGHT','NINE','TEN','ELEVEN','TWELVE','THIRTEEN','FOURTEEN','FIFTEEN','SIXTEEN','SEVENTEEN','EIGHTEEN','NINETEEN']
+# words_upto_19=['','ONE','TWO','THREE','FOUR','FIVE','SIX',
+# 'SEVEN','EIGHT','NINE','TEN','ELEVEN','TWELVE','THIRTEEN','FOURTEEN','FIFTEEN','SIXTEEN','SEVENTEEN','EIGHTEEN','NINETEEN']
 
-words_for_tens=['','','TWENTY','THIRTY','FOURTY','FIFTY','SIXTY','SEVENTY','EIGHTY','NINETY']
+# words_for_tens=['','','TWENTY','THIRTY','FOURTY','FIFTY','SIXTY','SEVENTY','EIGHTY','NINETY']
 
-n=int(input('Enter a number from 0 to 99:'))
-output=''
-if n==0:
-	output='ZERO'
-elif n<=19:
-	output=words_upto_19[n]
-elif n<=99:
-	output=words_for_tens[n//10]+" "+words_upto_19[n%10]
-else:
-	output='Please enter a value from 0 to 99 only'
-print(output)
+# n=int(input('Enter a number from 0 to 99:'))
+# output=''
+# if n==0:
+# 	output='ZERO'
+# elif n<=19:
+# 	output=words_upto_19[n]
+# elif n<=99:
+# 	output=words_for_tens[n//10]+" "+words_upto_19[n%10]
+# else:
+# 	output='Please enter a value from 0 to 99 only'
+# print(output)
