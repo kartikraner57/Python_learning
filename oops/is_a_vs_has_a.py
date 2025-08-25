@@ -14,7 +14,7 @@ class Person:
 class Employee(Person):
 	def __init__(self,name,age,eno,esal,car):
 		super().__init__(name,age)
-		self.eno=en
+		self.eno=eno
 		self.esal=esal
 		self.car=car
 	def work(self):
