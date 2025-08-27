@@ -21,7 +21,7 @@ class Employee(Person):
 		print('Coding Python Programs..')
 	def empinfo(self):
 		print('Employee Name:',self.name)
-		print('Employee Age:',self.age
+		print('Employee Age:',self.age)
 		print('Employee Number:',self.eno)
 		print('Employee Salary:',self.esal)
 		print('Employee Car Information:')
