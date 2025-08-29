@@ -31,4 +31,4 @@ car=Car('Innova','2.5V','Grey')
 e=Employee('Durga',48,872425,10000,car)
 e.eatndrink() #Employee using Person class functionality
 e.work()
-e.empinfo(
+e.empinfo()
