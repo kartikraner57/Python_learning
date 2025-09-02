@@ -16,4 +16,4 @@ b2=Book(200)
 b3=Book(500)
 b4=Book(600)
 #print(b1+b2*b3+b4)
-print(b1*b2+b3*b4)
+print(b1*b2+b3*b4
