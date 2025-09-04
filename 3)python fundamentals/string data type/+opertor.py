@@ -10,4 +10,4 @@ print("#"*10)
 # a = 10 + "surga"
 # # print(a) #=>error :-this applicable in java not in python
 # w = ("durga"*"soft")
-# print(w)
+# print(w
