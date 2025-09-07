@@ -34,5 +34,9 @@ class Goat:
     def talk(self):
         print('Myaah Myaah ..')
 
-def f
+def f1(obj):
+    obj.talk()
+
+l = [Duck(), Cat(), Dog(), Goat()]
+for obj in l:
     f1(obj)
