@@ -11,3 +11,28 @@ print("#"*10)
 # # print(a) #=>error :-this applicable in java not in python
 # w = ("durga"*"soft")
 # print(wg)
+
+
+
+
+
+
+
+class Duck:
+    def talk(self):
+        print('Quack.. Quack..')
+
+class Dog:
+    def talk(self):
+        print('Bow Bow..')
+
+class Cat:
+    def talk(self):
+        print('Moew Moew ..')
+
+class Goat:
+    def talk(self):
+        print('Myaah Myaah ..')
+
+def f
+    f1(obj)
