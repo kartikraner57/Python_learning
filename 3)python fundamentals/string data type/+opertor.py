@@ -1,10 +1,10 @@
-s = "durga"+"soft"
-print(s)#=>softdurga
-s1 = "durga"*3
-print(s1)#=>durga durga durga
-print("#0"*10)
-print("durgasoft")
-print("#"*10)
+# s = "durga"+"soft"
+# print(s)#=>softdurga
+# s1 = "durga"*3
+# print(s1)#=>durga durga durga
+# print("#0"*10)
+# print("durgasoft")
+# print("#"*10)
 
 # # sum error
 # a = 10 + "surga"
