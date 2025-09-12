@@ -14,5 +14,5 @@ result = z1 * z2
 print(result)  # Output: (-5+10j)
 
 result = z1 / z2
-print(result)  # Output: (2.2+0.4j)
+print(result)  # Output: (2.2+0.4j
   
