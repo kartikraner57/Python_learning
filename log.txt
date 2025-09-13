@@ -1,0 +1,12 @@
+WARNING:root:Warning Information
+ERROR:root:Error Information
+CRITICAL:root:Critical Information
+WARNING:root:Warning Information
+ERROR:root:Error Information
+CRITICAL:root:Critical Information
+WARNING:root:Warning Information
+ERROR:root:Error Information
+CRITICAL:root:Critical Information
+WARNING:root:Warning Information
+ERROR:root:Error Information
+CRITICAL:root:Critical Information
