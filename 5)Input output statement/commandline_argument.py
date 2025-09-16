@@ -15,3 +15,9 @@
 #     total += int(x)  # Convert to integer and add
 
 # print("Sum:", total)
+
+from sys import argv
+print(argv[0])
+# print(argv[1])
+# print(argv[2])
+print (argv)

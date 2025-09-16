@@ -42,15 +42,6 @@ del t3        # Line 17 → ref count = 0 → eligible for GC
 
 
 
-
-
-
-
-
-
-
-
-
 import time  
 
 class Test:
