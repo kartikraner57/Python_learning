@@ -1,0 +1,20 @@
+18/09/2025 11:04:12 PM : INFO : A new Request Came
+18/09/2025 11:04:26 PM : ERROR : invalid literal for int() with base 10: 'two'
+Traceback (most recent call last):
+  File "c:\Users\ASUS\OneDrive\Documents\Learning\python\Python_learning\loginging\exception+logging.py", line 17, in <module>
+    y = int(input('Enter Second Number: '))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'two'
+18/09/2025 11:04:26 PM : INFO : Request Processing Completed
+18/09/2025 11:04:45 PM : INFO : A new Request Came
+18/09/2025 11:04:46 PM : ERROR : invalid literal for int() with base 10: '& C:/Users/ASUS/AppData/Local/Programs/Python/Python312/python.exe c:/Users/ASUS/OneDrive/Documents/Learning/python/Python_learning/loginging/exception+logging.py'
+Traceback (most recent call last):
+  File "c:\Users\ASUS\OneDrive\Documents\Learning\python\Python_learning\loginging\exception+logging.py", line 16, in <module>
+    x = int(input('Enter First Number: '))
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: '& C:/Users/ASUS/AppData/Local/Programs/Python/Python312/python.exe c:/Users/ASUS/OneDrive/Documents/Learning/python/Python_learning/loginging/exception+logging.py'
+18/09/2025 11:04:46 PM : INFO : Request Processing Completed
+18/09/2025 11:04:52 PM : INFO : A new Request Came
+18/09/2025 11:04:56 PM : INFO : Request Processing Completed
+18/09/2025 11:05:19 PM : INFO : A new Request Came
+18/09/2025 11:05:23 PM : INFO : Request Processing Completed
