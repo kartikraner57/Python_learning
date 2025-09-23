@@ -18,3 +18,5 @@ except ZeroDivisionError as msg:
 except ValueError as msg:
 	print('please provide int values only')
 	logging.exception(msg)
+
+logging.info('Request processing completed'
