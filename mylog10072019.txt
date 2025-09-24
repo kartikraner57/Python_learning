@@ -1,3 +1,10 @@
 13/09/2025 04:22:18 PM:INFO:A new request came...
 13/09/2025 04:22:26 PM:INFO:Request processing completed
-S
+S24/09/2025 11:58:45 PM:INFO:A new request came...
+24/09/2025 11:58:48 PM:ERROR:invalid literal for int() with base 10: 'r'
+Traceback (most recent call last):
+  File "c:\Users\ASUS\OneDrive\Documents\Learning\python\Python_learning\loginging\test.py", line 10, in <module>
+    x=int(input('Enter First Number:'))
+      ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'r'
+24/09/2025 11:58:48 PM:INFO:Request processing completed
