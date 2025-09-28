@@ -48,7 +48,3 @@
 # print(data)
 # f.close()
 
-# Read entire file
-f
-f = open("abc.txt", "r")
-data = f
