@@ -38,4 +38,10 @@
 # f = open("abcd.txt", "w")
 # list = ["sunny\n", "bunny\n", "vinny\n", "chinny"]
 # f.writelines(list)
-# print("List 
+# print("List of lines written to the file successfully")
+# f.close()
+
+
+# # Reading Character Data from Text Files:
+# f = open("abc
+
