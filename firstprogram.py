@@ -94,14 +94,6 @@
 # #
 #  # type cast
 
- 
-# # a= int ("2")
-# # b = 4.25
-# # print(type(a))
-# # print (a + b)
-
-# # a= int ("3")
-# # b = 5.25
 # # print(type(a))
 # # print (a + b)
 
