@@ -101,6 +101,17 @@
 # # print (a + b)
 
 # # a= int ("3")
+# # b = 5.25
+# # print(type(a))
+# # print (a + b)
+
+
+# # a = 3.14
+# # a = str(a)
+# # print (type (a))
+
+# # ####input
+
 # # name = input ("enter your age :")
 # # print ("you entered ", name)
 
