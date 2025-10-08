@@ -14,6 +14,12 @@
 #     return sum
 
 # sum(5,2)
+# sum(2,10)
+# sum(55,43)
+
+
+
+# a = 5
 # b = 2
 
 # sum = a+b
