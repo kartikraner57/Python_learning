@@ -15,3 +15,10 @@ class student :
             print("you got third 7grade")
         else:
             print("you are faild")
+n = int(input("enter number of student :   "))
+for i in range(n):
+    name = input("enter name :")
+    marks= int(input("enter the marks : "))
+    s = student(name,marks)
+    s.display()
+    s.grade()
