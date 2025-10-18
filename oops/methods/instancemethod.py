@@ -19,4 +19,6 @@ n = int(input("enter number of student :   "))
 for i in range(n):
     name = input("enter name :")
     marks= int(input("enter the marks : "))
-    s 
+    s = student(name,marks)
+    s.display()
+    s.grade()
