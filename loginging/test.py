@@ -17,4 +17,4 @@ except ZeroDivisionError as msg:
 
 	logging.exception(msg)
 
-logging.info('Request processing completed'
+logging.info('Request processing completed')
