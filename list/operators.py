@@ -9,5 +9,3 @@ print(c) #-> [10, 20, 30, 40, 50, 60]
 c = a+[40] #-> valid [10, 20, 30, 40]
 ## Repetition Operator (*): We can use repetition operator * to repeat elements of list specified number of times. 
 # 1) x = [10, 20, 30] 
-# 2) y = x*3 
-# 3) print(y)  [10, 20, 30, 10, 20, 30, 10, 20, 30]
