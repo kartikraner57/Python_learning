@@ -44,8 +44,4 @@ If we want to represent a group of individual objects as a single entity where i
 3) print(type(l))
 
 
-#5) With split() Function: 
-1) s="Learning Python is very very easy !!!" 
-2) l=s.split() 
-3) print(l) 
-4) print(type(l))
+))
