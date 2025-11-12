@@ -99,4 +99,15 @@
 #     print("Default Except: Plz provide valid input only")
 
 
+# x = int(input("Enter First Number: "))
+# y = int(input("Enter Second Number: "))
+# print(x / y)
+
+# try:
+#     print(10/0)
+# except:
+#     print("Default Except")
+# except ZeroDivisionError:
+#     print("ZeroDivisionError"
+
 
