@@ -193,10 +193,3 @@ _x => protected
 __x =>private
 __x__ =>magic veriable
 
-
-3.l2
-18. python reservd words
-
-
-Reserved words are only regarding how many reserved words 33 reserved words.
-
