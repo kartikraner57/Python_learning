@@ -41,3 +41,17 @@ del t3        # Line 17 → ref count = 0 → eligible for GC
 
 
 
+
+import time  
+
+class Test:
+    def __init__(self):
+        print("Constructor Execution...")
+
+    def __del__(self):
+        print("Destructor Execution...")
+
+list = [Test(), Test(), Test()]   # Line 7
+del list                           # Line 8
+time.sleep(5)                      # Line 9
+print("End of application")        # Line 10
