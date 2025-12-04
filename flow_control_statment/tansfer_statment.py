@@ -10,7 +10,9 @@
 
 
 
-# for i in raessing is enough,break loop exicution") 
+# for i in range(10): #i = 10
+#     if i==8: 
+#         print("processing is enough,break loop exicution") 
 #         break 
 #     print(i)
 # print('outside of loop')
