@@ -11,3 +11,4 @@
 #     print("The Square of", number, "is", number * number)
 
 # squareIt(6)
+# squareIt(5)
