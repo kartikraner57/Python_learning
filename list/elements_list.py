@@ -19,12 +19,7 @@
 # Step  increment value Default Value is 1
 
 
-# n=[1,2,3,4,5,6,7,8,9,10] 
-# #2) print(n[2:7:2]) 
-# 3) print(n[4::2]) 
-# 4) print(n[3:7]) 
-# 5) print(n[8:2:-2]) 
-# 6) print(n[4:100])
+
 
 
 # n=[1,2,3,4,5,6,7,8,9,10] 
